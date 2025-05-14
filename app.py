@@ -17,7 +17,7 @@ if menu == "Home":
 
     Aao mil kar apni soch ko behtar banayein!
     """)
-    st.image("https://miro.medium.com/v2/resize:fit:1200/format:webp/1*B6jKURDZn1XZKjb5t5JrNQ.jpeg", use_column_width=True)
+    st.image("https://miro.medium.com/v2/resize:fit:1200/format:webp/1*B6jKURDZn1XZKjb5t5JrNQ.jpeg",use_container_width=True )
 
 elif menu == "Quiz":
     st.header("🧠 Mindset Quiz")
